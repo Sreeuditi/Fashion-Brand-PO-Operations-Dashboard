@@ -40,4 +40,18 @@ These scenarios were used to practice issue identification, stakeholder follow-u
 6. Learning Outcome:
 Through this project, I practiced using Microsoft Excel not only for calculations, but also for organising operational data, identifying exceptions, tracking order performance and presenting information through a business dashboard.
 
+7. Dashboard: 
+![Fashion Brand PO Dashboard](Dashboard.png)
+
+This dashboard provides an overview of:
+~ Total purchase orders
+~ Total PO value
+~ Delivered POs
+~ Delayed POs
+~ Open issues
+~ PO value by brand
+~ PO status
+~ TAT status
+~ Operational issue by type 
+
 ⚠️ Disclaimer: This is a simulated portfolio project created for learning and demonstration purposes. The purchase orders, brands, products and operational scenarios used in the workbook are fictional.
